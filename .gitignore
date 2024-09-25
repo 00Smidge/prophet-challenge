@@ -1,3 +1,7 @@
+# EDI & OSX
+.vscode
+.DS_Stores
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
